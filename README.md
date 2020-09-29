@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jhey!</h1>
-<h3 align="center">A passionate frontend developer from Brazil 🇧🇷</h3>
+<h3 align="center">A passionate frontend developer from Brazil 🇧🇷 ✨</h3>
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
 - 🌱 I’m currently learning and working with **React Js / Native**
 
-- 🌻 I’m looking to collaborate more on **open source projects**
+- ✨ I’m looking to collaborate more on **open source projects**!
 
-- 💬 Ask me about **games and music 🖤**
+- 💬 Ask me about **games, food and music 🖤**
 
 - 📫 You can reach me in **jheyvilvok@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with my giant dino onesie 🦖**
+- ⚡ Fun fact **I'm obsessed with my giant dino onesie 🦖 💕**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
