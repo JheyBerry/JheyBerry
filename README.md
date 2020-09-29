@@ -1,6 +1,12 @@
-<img src="./octo.gif" alt="octo"/>
-<h1 align="center">Hi 👋, I'm Jhey!</h1>
-<h3 align="center"><img src="./cat.gif" alt="cat"/>A passionate frontend developer from Brazil 🇧🇷 ✨</h3>
+<div align="center">
+<img src="./octo.gif" alt="octo" width="200px"/>
+</div>
+
+<h1 align="center">Hey there, I'm Jhey!</h1>
+
+<div align="center">
+<img src="./cat.gif" alt="cat" width="60px"/> <h3>A passionate frontend developer from Brazil 🇧🇷 ✨</h3>
+</div>
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
