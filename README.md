@@ -5,8 +5,9 @@
 <h1 align="center">Hey there, I'm Jhey!</h1>
 
 <div align="center">
-<img src="./cat.gif" alt="cat" width="60px"/> <h3>A passionate frontend developer from Brazil 🇧🇷 ✨</h3>
+<h3><img src="./cat.gif" alt="cat" width="60px"/>A passionate frontend developer from Brazil 🇧🇷 ✨</h3>
 </div>
+
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
@@ -19,6 +20,7 @@
 - 📫 You can reach me in **jheyvilvok@gmail.com**
 
 - ⚡ Fun fact **I'm obsessed with my giant dino onesie 🦖 💕**
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
