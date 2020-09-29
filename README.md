@@ -1,5 +1,6 @@
+<img src="./octo.gif" alt="octo"/>
 <h1 align="center">Hi 👋, I'm Jhey!</h1>
-<h3 align="center">A passionate frontend developer from Brazil 🇧🇷 ✨</h3>
+<h3 align="center"><img src="./cat.gif" alt="cat"/>A passionate frontend developer from Brazil 🇧🇷 ✨</h3>
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
