@@ -18,7 +18,7 @@
 
 - ✨ I’m looking to collaborate more on **open source projects**!
 
-- 💬 Ask me about **games, food and music 🖤**
+- 💬 Ask me about **animes, games, food and music 🖤**
 
 - 📫 You can reach me in **jheyvilvok@gmail.com**
 
