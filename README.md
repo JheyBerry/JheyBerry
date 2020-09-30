@@ -1,8 +1,7 @@
 <div align="center">
 <img src="./octo.gif" alt="octo" width="200px"/>
+<img src="text.gif" alt="Hey there, I'm Jhey!"/>
 </div>
-
-<h1 align="center">Hey there, I'm Jhey!</h1>
 
 <div align="center">
 <h3><img src="./cat.gif" alt="cat" width="60px"/> ✨ 🇧🇷 A passionate frontend developer from Brazil 🇧🇷 ✨ <img src="./cat.gif" alt="cat" width="60px"/></h3>
