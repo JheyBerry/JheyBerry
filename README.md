@@ -1,6 +1,9 @@
 <div align="center">
 <img src="./octo.gif" alt="octo" width="200px"/>
-<img src="text.gif" alt="Hey there, I'm Jhey!"/>
+</div>
+
+<div align="center">
+<img src="text.gif" alt="Hey there, I'm Jhey!" width="400px"/>
 </div>
 
 <div align="center">
