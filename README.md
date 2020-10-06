@@ -4,7 +4,11 @@
 </div>
 
 
-<img align="right" width="200" height="200" src="./jj.png" alt="My Octocat!"/>
+
+
+
+
+<img align="right" width="250" height="250" src="./jj.png" alt="My Octocat!"/>
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
