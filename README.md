@@ -4,7 +4,7 @@
 </div>
 
 
-<img src="./octocat_Jhey.png" alt="My Octocat!"/>
+<img align="right" src="./octocat_Jhey.png" alt="My Octocat!"/>
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
