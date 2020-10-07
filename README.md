@@ -5,11 +5,6 @@
 
 
 
-
-
-
-<img align="right" width="250" height="250" src="./jj.png" alt="My Octocat!"/>
-
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
 - 🌱 I’m currently learning and working with **React Js / Native**
