@@ -1,6 +1,7 @@
 
 <div align="center">
-<h3><img src="./cat.gif" alt="cat" width="60px"/> ✨ 🇧🇷  Hey, I'm Jhey! A passionate frontend developer from Brazil. 🇧🇷 ✨ <img src="./cat.gif" alt="cat" width="60px"/></h3>
+<img src="jj.svg" alt="Jhey"/>
+<h3>✨ 🇧🇷  Hey, I'm Jhey! A passionate frontend developer from Brazil. 🇧🇷 ✨ </h3>
 </div>
 
 
