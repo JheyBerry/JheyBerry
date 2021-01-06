@@ -2,7 +2,7 @@
 <div align="center">
 <img src="group.png" alt="Jhey" width="70%" align="center"/>
 </div>
-<h3>✨ 🇧🇷  Hey, I'm Jhey! A passionate Web Developer from Brazil. 🇧🇷 ✨ </h3>
+<h3 align="center">✨ 🇧🇷  Hey, I'm Jhey! A passionate Web Developer from Brazil. 🇧🇷 ✨ </h3>
 
 </br>
 
@@ -21,8 +21,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/jheneyvilvok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jheneyvilvok" height="30" width="40" /></a>
-<a href="https://instagram.com/jheyberry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jheyberry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jheneyvilvok" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" alt="jheneyvilvok" height="30" width="40" /></a>
+<a href="https://instagram.com/jheyberry" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="jheyberry" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jheyberry&show_icons=true" alt="jheyberry" /></p>
