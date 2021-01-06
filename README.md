@@ -1,8 +1,8 @@
 
 <div align="center">
-<img src="group.png" alt="Jhey"/>
-<h3>✨ 🇧🇷  Hey, I'm Jhey! A passionate frontend developer from Brazil. 🇧🇷 ✨ </h3>
+<img src="group.png" alt="Jhey" width="70%" align="center"/>
 </div>
+<h3>✨ 🇧🇷  Hey, I'm Jhey! A passionate Web Developer from Brazil. 🇧🇷 ✨ </h3>
 
 </br>
 
@@ -12,11 +12,11 @@
 
 - ✨ I’m looking to collaborate more on **open source projects**!
 
-- 💬 Ask me about **animes, games, food and music 🖤**
+- 💬 Ask me about **animes, webtoons, games, food and music 🖤**
 
 - 📫 You can reach me in **jheyvilvok@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with food and cats 🐱 ✨**
+- ⚡ Fun fact **I'm obsessed with food and pets 🐱 ✨**
 
 
 <p align="left">
