@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
-- 🌱 I’m currently learning and working with **React Js / Native**
+- 🌱 I’m currently learning and working with **React Native**
 
 - ✨ I’m looking to collaborate more on **open source projects**!
 
