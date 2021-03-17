@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning about **Web3**
 
 - ✨ I’m looking to collaborate more on **open source projects**!
 
