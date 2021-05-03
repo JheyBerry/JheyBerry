@@ -6,7 +6,7 @@
 
 </br>
 
-- 🔭 I’m currently working at [Objetiva Digital](http://novo.objetiva.digital/)
+- 🔭 I’m currently working at [Magrathea Labs](https://magrathealabs.com)
 
 - 🌱 I’m currently learning about **Web3**
 
