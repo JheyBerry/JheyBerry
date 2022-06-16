@@ -1,28 +1,26 @@
 
 <div align="center">
-<img src="group.png" alt="Jhey" width="70%" align="center"/>
+<img src="https://user-images.githubusercontent.com/57020774/174155310-28324d06-5fbb-4bd7-82f3-e030fc2391ce.png" alt="Jhey" width="70%" align="center"/>
 </div>
-<h3 align="center">✨ 🇧🇷  Hey, I'm Jhey! A passionate Web Developer from Brazil. 🇧🇷 ✨ </h3>
+<h3 align="center">✨ 🇧🇷  Hey, I'm Jhey! A passionate Developer from Brazil. 🇧🇷 ✨ </h3>
 
 </br>
 
-- 🔭 I’m currently working at [Magrathea Labs](https://magrathealabs.com)
+- 🔭 I’m currently working at [Trusted Health](https://www.trustedhealth.com/)
 
-- 🌱 I’m currently learning about **Web3**
+- 🌱 I’m currently learning more about **Ruby on Rails**
 
 - ✨ I’m looking to collaborate more on **open source projects**!
 
-- 💬 Ask me about **animes, webtoons, games, food and music 🖤**
+- 💬 Ask me about **webtoons, games, analog photography and food🧁**
 
 - 📫 You can reach me in **jheyvilvok@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with food and pets 🐱 ✨**
+- ⚡ Fun fact **I'm obsessed with pets 🐱 ✨**
 
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/jheneyvilvok" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" alt="jheneyvilvok" height="30" width="40" /></a>
-<a href="https://instagram.com/jheyberry" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="jheyberry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jheneyvilvok" target="blank"><img align="center" src="https://user-images.githubusercontent.com/57020774/174155667-a7ad4a68-e5c8-4260-81db-0ab3dfd5aa01.svg" alt="jheneyvilvok" height="30" width="40" /></a>
+<a href="https://instagram.com/jheyberry" target="blank"><img align="center" src="https://user-images.githubusercontent.com/57020774/174155515-53d6a48f-7f89-48ed-a49d-68193d17f835.svg" alt="jheyberry" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jheyberry&show_icons=true" alt="jheyberry" /></p>
