@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/57020774/174159198-b7fcffc0-7956-4eaa-9994-6bd2ac2348c6.png" alt="Jhey" width="70%" align="center"/>
 </div>
 
-<h3 align="center">✨ 🇧🇷  Hey, I'm Jhey! A passionate Developer from Brazil. 🇧🇷 ✨ </h3>
+<h3 align="center">✨ 🇧🇷  Hey, I'm Jhey! A passionate developer from Brazil. 🇧🇷 ✨ </h3>
 
 </br>
 
