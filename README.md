@@ -1,6 +1,7 @@
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/57020774/174159198-b7fcffc0-7956-4eaa-9994-6bd2ac2348c6.png" alt="Jhey" width="70%" align="center"/>
+<img src="https://github.com/JheyBerry/JheyBerry/assets/57020774/f31ebc7f-80da-4d21-8a39-6fdcf2d4906a" alt="Jhey" width="70%" align="center"/>
+
 </div>
 
 <h3 align="center">✨ 🇧🇷  Hey, I'm Jhey! A passionate developer from Brazil. 🇧🇷 ✨ </h3>
@@ -9,15 +10,12 @@
 
 - 🔭 I’m currently working at [Trusted Health](https://www.trustedhealth.com/)
 
-- 🌱 I’m currently learning more about **Ruby on Rails**
-
 - ✨ I’m looking to collaborate more on **open source projects**!
 
-- 💬 Ask me about **webtoons, games, analog photography and food🧁**
+- 💬 Ask me about **games, coffee, analog photography and food🧁**
 
 - 📫 You can reach me in **jheyvilvok@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with pets 🐱 ✨**
 
 
 <p align="left">
