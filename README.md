@@ -8,15 +8,13 @@
 
 </br>
 
-- 🔭 I’m currently working at [Trusted Health](https://www.trustedhealth.com/)
+- 🔭 I’m currently working at [Asaas](https://www.asaas.com.br/)
 
 - ✨ I’m looking to collaborate more on **open source projects**!
 
 - 💬 Ask me about **games, coffee, analog photography and food🧁**
 
 - 📫 You can reach me in **jheyvilvok@gmail.com**
-
-
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
