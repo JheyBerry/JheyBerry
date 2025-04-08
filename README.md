@@ -8,7 +8,7 @@
 
 </br>
 
-- 🔭 I’m currently working at [Asaas](https://www.asaas.com.br/)
+- 🔭 I’m currently for a Job 🥳 
 
 - ✨ I’m looking to collaborate more on **open source projects**!
 
